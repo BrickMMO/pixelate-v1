@@ -1,8 +1,10 @@
 # BrickMMO Pixelate Tool
 
-A tool to convert images to bricks.
+A tool to convert images to bricks and instructions.
 
-## Requirements:
+***
+
+## Repo Resources
 
 * [BrickMMO](https://www.brickmmo.com/)
 * [BrickMMO Pixelate](https://pixelate.brickmmo.com/)
