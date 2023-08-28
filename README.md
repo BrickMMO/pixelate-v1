@@ -1,4 +1,4 @@
-# BrickMMO Pixelate Tool
+# Pixelate Tool
 
 A tool to convert images to bricks and instructions.
 
