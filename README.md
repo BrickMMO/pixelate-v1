@@ -1,4 +1,4 @@
-# Pixelate
+# Pixelate V1
 
 A tool to convert images to bricks and instructions.
 
